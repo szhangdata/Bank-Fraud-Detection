@@ -1,9 +1,9 @@
-# Bank_Fraud_Detection
+## Bank_Fraud_Detection
 **This is a mini project to predict whether these customers are credible or not for a bank.**  
 **1. The test set contains customer’s basic attributes and payment histories.  
 2.The output will predict whether these customers are credible or not.**  
 
-# Data Description:  
+## Data Description:  
 label.test.csv - the test set, contains customer’s basic attributes and payment histories. You must predict whether these customers are credible or not.  
 sample submission.csv - a file showing the correct submission format. You must replace the NA’s with the predicted class labels. You should show your results by submitting the .csv file according to the format of this sample submission.csv.  
 id: A unique Id field which represents a customer  
