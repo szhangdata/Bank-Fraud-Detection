@@ -13,7 +13,8 @@ X2: Gender (1 = male; 2 = female).
 X3: Education (1 = graduate school; 2 = university; 3 = high school; 4 = others). 
 X4: Marital status (1 = married; 2 = single; 3 = others).  
 X5: Age (year).  
-X6 - X11: History of past payment. X6 = September, 2015;  
+X6 - X11: History of past payment. 
+X6 = September, 2015;  
 X7 = August, 2015;  
 X11 =April, 2015. -1 = pay one month ahead; -2 = pay two month ahead; 0 = pay on time; Positive means the payment delayed months, 1 = delay 1 month, 2 = delay 2 months, etc.
 X12- X17: Amount in bill statement.  
