@@ -1,5 +1,5 @@
 ## Bank_Fraud_Detection
-**This is a mini project to predict whether these customers are credible or not for a bank.**  
+**This is a project to predict whether these customers are credible or not for a bank.**  
 **1. The test set contains customer’s basic attributes and payment histories.  
 2.The output will predict whether these customers are credible or not.**  
 
