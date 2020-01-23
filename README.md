@@ -1,9 +1,10 @@
 ## Bank_Fraud_Detection
+
+<img src = "image/Bank-fraud.png" width = "600">
+
 **This is a project to predict whether these customers are credible or not for a bank.**  
 **1. The test set contains customer’s basic attributes and payment histories.  
 2.The output will predict whether these customers are credible or not.**  
-
-![](images/Bank-fraud.png)
 
 ## Data Description:  
 label.test.csv - the test set, contains customer’s basic attributes and payment histories.  
