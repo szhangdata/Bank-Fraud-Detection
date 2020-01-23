@@ -3,6 +3,8 @@
 **1. The test set contains customer’s basic attributes and payment histories.  
 2.The output will predict whether these customers are credible or not.**  
 
+![](images/Bank-fraud.png)
+
 ## Data Description:  
 label.test.csv - the test set, contains customer’s basic attributes and payment histories.  
 sample submission.csv - a file showing the correct submission format. 
