@@ -2,7 +2,7 @@
 
 <img src = "image/Bank-fraud.png" width = "600">
 
-**This is a project to predict whether these customers are credible or not for a bank.**  
+**In this project we will predict whether bank customers are credible or not given their account information.**  
 **1. The test set contains customer’s basic attributes and payment histories.  
 2.The output will predict whether these customers are credible or not.**  
 
